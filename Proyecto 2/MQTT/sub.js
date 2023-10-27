@@ -1,4 +1,5 @@
 const mqtt = require('mqtt');
+const { Conexion } = require('./conexion.js');
 
 let get = true;
 
@@ -11,5 +12,7 @@ sub.on('connect', () => {
 });
 
 sub.on('message', async (topic, message) => {
+    data = {topic: topic, message: message.toString()}
+    Conexion.insertData(data);
     console.log('topic: ', topic ,' msj: ' + message.toString());
 });

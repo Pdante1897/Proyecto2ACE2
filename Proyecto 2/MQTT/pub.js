@@ -10,7 +10,7 @@ const parser = port.pipe(new ReadlineParser({ delimiter: '\n' }));
 
 //----------------------------- pub -------------------------------
 
-const pub = mqtt.connect('mqtt://localhost:9000');
+const pub = mqtt.connect('mqtt://54.152.221.118:9000');
 
 pub.on('connect', () => {
     parser.on('data', (arduino_data) => {
@@ -33,7 +33,7 @@ port.on('open', () => {
 
 const TopicSub = "pub";
 
-const sub = mqtt.connect("mqtt://localhost:9000");
+const sub = mqtt.connect("mqtt://54.152.221.118:9000");
 
 sub.on("connect", () => {
   sub.subscribe(TopicSub);

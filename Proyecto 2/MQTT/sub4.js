@@ -1,5 +1,6 @@
 const mqtt = require('mqtt');
-//const {MongoClient} = require('mongodb');
+const { Conexion } = require('./conexion.js');
+
 let get = true;
 
 const Topic = "G7_Luz:";
@@ -11,5 +12,7 @@ sub.on('connect', () => {
 });
 
 sub.on('message', async (topic, message) => {
+    data = {topic: topic, message: message.toString()}
+    Conexion.insertData(data);
     console.log('topic: ', topic ,' msj: ' + message.toString());
 });
