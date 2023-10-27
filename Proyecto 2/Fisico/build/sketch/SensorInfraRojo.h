@@ -39,12 +39,14 @@ void DetectarPrecencia()
         {
         case 4:
             mensajeI = "La habitación está iluminada pero no hay nadie en ella";
-            //Serial.println(mensajeI);
+            Serial.print("G7_Mesaje: ");
+            Serial.println(mensajeI);
             break;
         case 8:
             apagarLuz();
-            mensajeI = "El sistema de iluminación ha sido apagado";
-            //Serial.println(mensajeI);
+            mensajeI = "Se apagara el sistema de iluminación";
+            Serial.print("G7_Mesaje: ");
+            Serial.println(mensajeI);
             break;
         default:
             mensajeI = "";

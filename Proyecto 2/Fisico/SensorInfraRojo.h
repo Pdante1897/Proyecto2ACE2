@@ -43,9 +43,9 @@ void DetectarPrecencia()
             break;
         case 8:
             apagarLuz();
-            mensajeI = "El sistema de iluminación ha sido apagado";
+            mensajeI = "Se apagara el sistema de iluminación";
             Serial.print("G7_Mesaje: ");
-            //Serial.println(mensajeI);
+            Serial.println(mensajeI);
             break;
         default:
             mensajeI = "";

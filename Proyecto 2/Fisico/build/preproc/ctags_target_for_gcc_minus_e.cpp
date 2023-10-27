@@ -39,7 +39,7 @@ void loop()
 {
 
     medirLuz();
-    MedirCO2();
+    MedirCO2();//ya
     MedirTemperatura();
     DetectarPrecencia();
     //Postxd();

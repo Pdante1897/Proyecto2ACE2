@@ -10,7 +10,8 @@ void medirLuz()
     // Convierte el valor del LDR en lúmenes.
     valorLux = valorLDR * luxConversionFactor;
     // Imprime el valor de los lúmenes en el monitor serie.
+    Serial.print("G7_Luz: ");
     //Serial.print("Cantidad de luz: ");
-    //Serial.println(valorLux);
+    Serial.println(valorLux);
 }
 #endif
