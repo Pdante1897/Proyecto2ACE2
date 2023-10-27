@@ -1,8 +1,8 @@
 const mqtt = require('mqtt');
-const {MongoClient} = require('mongodb');
+
 let get = true;
 
-const Topic = "Data:";
+const Topic = "G7_CO2:";
 
 const sub = mqtt.connect('mqtt://localhost:9000');
 

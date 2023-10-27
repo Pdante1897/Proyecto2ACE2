@@ -2,7 +2,7 @@ const mqtt = require('mqtt');
 //const {MongoClient} = require('mongodb');
 let get = true;
 
-const Topic = "G7_Mensaje:";
+const Topic = "G7_Luz:";
 
 const sub = mqtt.connect('mqtt://localhost:9000');
 
