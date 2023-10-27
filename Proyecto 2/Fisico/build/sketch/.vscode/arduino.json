@@ -1,0 +1,8 @@
+#line 1 "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\.vscode\\arduino.json"
+{
+    "sketch": "Practica2.ino",
+    "output": "build",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "port": "COM7"
+}
