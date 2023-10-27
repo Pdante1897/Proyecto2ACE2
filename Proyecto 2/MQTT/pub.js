@@ -31,3 +31,14 @@ port.on('open', () => {
     console.log('Port open en COM2');
 });
 
+const TopicSub = "pub";
+
+const sub = mqtt.connect("mqtt://localhost:9000");
+
+sub.on("connect", () => {
+  sub.subscribe(TopicSub);
+});
+
+sub.on("message", (topic, message) => {
+  console.log("SUB:: topicSub: ", TopicSub, "  msj: ", message.toString());
+});
