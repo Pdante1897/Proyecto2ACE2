@@ -4,7 +4,7 @@ let get = true;
 
 const Topic = "Data2:";
 
-const sub = mqtt.connect('mqtt://localhost:9000');
+const sub = mqtt.connect('mqtt://54.152.221.118');
 
 sub.on('connect', () => {
     sub.subscribe(Topic);
