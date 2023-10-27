@@ -17,8 +17,9 @@ void MedirHumedad()
 void MedirTemperatura()
 {
     temperatura = dht.readTemperature();
+    Serial.print("G7_Temperatura: ");
     //Serial.print("Temperatura: ");
-    //Serial.print(temperatura);
+    Serial.println(temperatura);
     //Serial.println(" °C");
 }
 #endif

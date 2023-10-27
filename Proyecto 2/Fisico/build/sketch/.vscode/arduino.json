@@ -1,6 +1,6 @@
-#line 1 "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\.vscode\\arduino.json"
+#line 1 "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\.vscode\\arduino.json"
 {
-    "sketch": "Practica2.ino",
+    "sketch": "Fisico.ino",
     "output": "build",
     "configuration": "cpu=atmega2560",
     "board": "arduino:avr:mega",

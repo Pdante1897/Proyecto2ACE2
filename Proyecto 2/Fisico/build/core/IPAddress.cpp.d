@@ -1,4 +1,4 @@
-G:\Archivos\Escritorio\Ingenieria\Segundo\ Semestre\ 2023\Arqui\ 2\Practica2\build\core\IPAddress.cpp.o: \
+G:\Archivos\Escritorio\Proyecto2ACE2\Proyecto\ 2\Fisico\build\core\IPAddress.cpp.o: \
  C:\Users\GustavoXD\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino\IPAddress.cpp \
  C:\Users\GustavoXD\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/Arduino.h \
  C:\Users\GustavoXD\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino/binary.h \

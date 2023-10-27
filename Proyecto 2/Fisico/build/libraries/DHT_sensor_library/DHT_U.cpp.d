@@ -1,4 +1,4 @@
-G:\Archivos\Escritorio\Ingenieria\Segundo\ Semestre\ 2023\Arqui\ 2\Practica2\build\libraries\DHT_sensor_library\DHT_U.cpp.o: \
+G:\Archivos\Escritorio\Proyecto2ACE2\Proyecto\ 2\Fisico\build\libraries\DHT_sensor_library\DHT_U.cpp.o: \
  G:\Archivos\Documentos\Arduino\libraries\DHT_sensor_library\DHT_U.cpp \
  G:\Archivos\Documentos\Arduino\libraries\DHT_sensor_library\DHT_U.h \
  G:\Archivos\Documentos\Arduino\libraries\Adafruit_Unified_Sensor/Adafruit_Sensor.h \

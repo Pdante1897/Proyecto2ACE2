@@ -1,4 +1,4 @@
-#line 1 "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\SensorHumTemp.h"
+#line 1 "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\SensorHumTemp.h"
 #ifndef SENSORHUMTEMP
 #define SENSORHUMTEMP
 #include "DHT.h"

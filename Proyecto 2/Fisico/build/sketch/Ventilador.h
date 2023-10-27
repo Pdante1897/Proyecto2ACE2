@@ -1,22 +1,27 @@
-#line 1 "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\Ventilador.h"
+#line 1 "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\Ventilador.h"
 #ifndef VENTILADOR
 #define VENTILADOR
 const int PinVent=3;
 
 void encenderVentilador(){
-    analogWrite(PinVent,255);
+    analogWrite(PinVent,0);
+    //Serial.println("Ventilador encendido");
+
 }
 
 void apagarVentilador(){
-    analogWrite(PinVent,0);
+    analogWrite(PinVent,255);
+    //Serial.println("Ventilador apagado");
 }
 
 void vel1(){
-    analogWrite(PinVent,150);
+    analogWrite(PinVent,100);
+    //Serial.println("Velocidad 1");
 }
 
 void vel2(){
-    analogWrite(PinVent,255);
+    analogWrite(PinVent,0);
+    //Serial.println("Velocidad 2");
 }
 
 #endif

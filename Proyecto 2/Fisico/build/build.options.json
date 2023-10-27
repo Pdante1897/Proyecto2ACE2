@@ -1,5 +1,5 @@
 {
-  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..",
+  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..",
   "builtInToolsFolders": "",
   "compiler.optimization_flags": "",
   "customBuildProperties": "",
@@ -7,5 +7,5 @@
   "hardwareFolders": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages",
   "otherLibrariesFolders": "G:\\Archivos\\Documentos\\Arduino\\libraries",
   "runtime.ide.version": "10607",
-  "sketchLocation": "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2"
+  "sketchLocation": "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico"
 }

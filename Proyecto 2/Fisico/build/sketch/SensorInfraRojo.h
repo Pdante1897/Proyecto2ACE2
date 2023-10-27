@@ -1,4 +1,4 @@
-#line 1 "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\SensorInfraRojo.h"
+#line 1 "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\SensorInfraRojo.h"
 #ifndef SENSORINFRAROJO
 #define SENSORINFRAROJO
 const int pinTrig = A5;
@@ -23,13 +23,13 @@ void DetectarPrecencia()
 
     if (value <= 10)
     {
-        Serial.println("Detectado obstaculo");
+        //Serial.println("Obstaculo Detectado");
         mensajeI = "";
         ContadorIR = 0;
     }
     else
     {
-        Serial.println("No hay obstaculo");
+        //Serial.println("No hay obstaculo");
         ContadorIR++;
     }
 
@@ -39,16 +39,16 @@ void DetectarPrecencia()
         {
         case 4:
             mensajeI = "La habitación está iluminada pero no hay nadie en ella";
-            Serial.println(mensajeI);
+            //Serial.println(mensajeI);
             break;
         case 8:
             apagarLuz();
             mensajeI = "El sistema de iluminación ha sido apagado";
-            Serial.println(mensajeI);
+            //Serial.println(mensajeI);
             break;
         default:
             mensajeI = "";
-            Serial.println(mensajeI);
+            //Serial.println(mensajeI);
             break;
         }
     }else{

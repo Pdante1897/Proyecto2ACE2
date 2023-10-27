@@ -10,22 +10,27 @@
     "Includepath": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega"
   },
   {
-    "Sourcefile": "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\sketch\\Practica2.ino.cpp",
+    "Sourcefile": "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\sketch\\Fisico.ino.cpp",
     "Include": "ESP8266.h",
     "Includepath": "G:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master"
   },
   {
-    "Sourcefile": "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\sketch\\Practica2.ino.cpp",
+    "Sourcefile": "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\sketch\\Fisico.ino.cpp",
     "Include": "ArduinoJson.h",
     "Includepath": "G:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src"
   },
   {
-    "Sourcefile": "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\sketch\\Practica2.ino.cpp",
+    "Sourcefile": "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\sketch\\Fisico.ino.cpp",
     "Include": "DHT.h",
     "Includepath": "G:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library"
   },
   {
-    "Sourcefile": "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\sketch\\Practica2.ino.cpp",
+    "Sourcefile": "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\sketch\\Fisico.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\sketch\\Fisico.ino.cpp",
     "Include": "",
     "Includepath": null
   },
@@ -46,6 +51,46 @@
   },
   {
     "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\renesas\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
     "Include": "",
     "Includepath": null
   },

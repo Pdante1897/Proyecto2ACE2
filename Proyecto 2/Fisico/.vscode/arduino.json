@@ -1,5 +1,5 @@
 {
-    "sketch": "Practica2.ino",
+    "sketch": "Fisico.ino",
     "output": "build",
     "configuration": "cpu=atmega2560",
     "board": "arduino:avr:mega",

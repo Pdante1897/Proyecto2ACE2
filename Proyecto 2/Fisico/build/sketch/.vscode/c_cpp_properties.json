@@ -1,4 +1,4 @@
-#line 1 "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\.vscode\\c_cpp_properties.json"
+#line 1 "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\.vscode\\c_cpp_properties.json"
 {
     "version": 4,
     "configurations": [
@@ -22,6 +22,7 @@
                 "G:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
                 "G:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
                 "G:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+                "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
                 "G:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
                 "c:\\users\\gustavoxd\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\lib\\gcc\\avr\\7.3.0\\include",
                 "c:\\users\\gustavoxd\\appdata\\local\\arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7\\lib\\gcc\\avr\\7.3.0\\include-fixed",

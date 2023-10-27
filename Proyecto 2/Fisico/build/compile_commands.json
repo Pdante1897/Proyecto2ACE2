@@ -1,6 +1,6 @@
 [
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -26,15 +26,16 @@
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\sketch\\Practica2.ino.cpp",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\sketch\\Fisico.ino.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\sketch\\Practica2.ino.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\sketch\\Fisico.ino.cpp.o"
   ],
-  "file": "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\sketch\\Practica2.ino.cpp"
+  "file": "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\sketch\\Fisico.ino.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -60,15 +61,16 @@
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
    "G:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master\\ESP8266.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\libraries\\ITEADLIB_Arduino_WeeESP8266-master\\ESP8266.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\ITEADLIB_Arduino_WeeESP8266-master\\ESP8266.cpp.o"
   ],
   "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master\\ESP8266.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -94,15 +96,16 @@
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
    "G:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library\\DHT.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\libraries\\DHT_sensor_library\\DHT.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\DHT_sensor_library\\DHT.cpp.o"
   ],
   "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library\\DHT.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -128,15 +131,16 @@
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
    "G:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\libraries\\DHT_sensor_library\\DHT_U.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\DHT_sensor_library\\DHT_U.cpp.o"
   ],
   "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -162,15 +166,296 @@
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+   "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Servo\\sam\\Servo.cpp.o"
+  ],
+  "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+   "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Servo\\nrf52\\Servo.cpp.o"
+  ],
+  "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+   "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Servo\\mbed\\Servo.cpp.o"
+  ],
+  "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+   "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\renesas\\Servo.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Servo\\renesas\\Servo.cpp.o"
+  ],
+  "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\renesas\\Servo.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+   "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Servo\\stm32f4\\Servo.cpp.o"
+  ],
+  "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+   "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Servo\\samd\\Servo.cpp.o"
+  ],
+  "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+   "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Servo\\avr\\Servo.cpp.o"
+  ],
+  "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
+   "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Servo\\megaavr\\Servo.cpp.o"
+  ],
+  "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ITEADLIB_Arduino_WeeESP8266-master",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\ArduinoJson\\src",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\DHT_sensor_library",
+   "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Servo\\src",
    "-IG:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor",
    "G:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor\\Adafruit_Sensor.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\libraries\\Adafruit_Unified_Sensor\\Adafruit_Sensor.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\libraries\\Adafruit_Unified_Sensor\\Adafruit_Sensor.cpp.o"
   ],
   "file": "G:\\Archivos\\Documentos\\Arduino\\libraries\\Adafruit_Unified_Sensor\\Adafruit_Sensor.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -195,42 +480,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\CDC.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\CDC.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\CDC.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\CDC.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
-  "arguments": [
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
-   "-c",
-   "-g",
-   "-Os",
-   "-w",
-   "-std=gnu++11",
-   "-fpermissive",
-   "-fno-exceptions",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-threadsafe-statics",
-   "-Wno-error=narrowing",
-   "-MMD",
-   "-flto",
-   "-mmcu=atmega2560",
-   "-DF_CPU=16000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_AVR_MEGA2560",
-   "-DARDUINO_ARCH_AVR",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial.cpp",
-   "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\HardwareSerial.cpp.o"
-  ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial.cpp"
- },
- {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -255,12 +510,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial3.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\HardwareSerial3.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\HardwareSerial3.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial3.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -285,12 +540,42 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial0.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\HardwareSerial0.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\HardwareSerial0.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial0.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\HardwareSerial.cpp.o"
+  ],
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -315,132 +600,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial1.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\HardwareSerial1.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\HardwareSerial1.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial1.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
-  "arguments": [
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
-   "-c",
-   "-g",
-   "-Os",
-   "-w",
-   "-std=gnu++11",
-   "-fpermissive",
-   "-fno-exceptions",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-threadsafe-statics",
-   "-Wno-error=narrowing",
-   "-MMD",
-   "-flto",
-   "-mmcu=atmega2560",
-   "-DF_CPU=16000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_AVR_MEGA2560",
-   "-DARDUINO_ARCH_AVR",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial2.cpp",
-   "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\HardwareSerial2.cpp.o"
-  ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial2.cpp"
- },
- {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
-  "arguments": [
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
-   "-c",
-   "-g",
-   "-Os",
-   "-w",
-   "-std=gnu++11",
-   "-fpermissive",
-   "-fno-exceptions",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-threadsafe-statics",
-   "-Wno-error=narrowing",
-   "-MMD",
-   "-flto",
-   "-mmcu=atmega2560",
-   "-DF_CPU=16000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_AVR_MEGA2560",
-   "-DARDUINO_ARCH_AVR",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Print.cpp",
-   "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\Print.cpp.o"
-  ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Print.cpp"
- },
- {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
-  "arguments": [
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
-   "-c",
-   "-g",
-   "-Os",
-   "-w",
-   "-std=gnu++11",
-   "-fpermissive",
-   "-fno-exceptions",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-threadsafe-statics",
-   "-Wno-error=narrowing",
-   "-MMD",
-   "-flto",
-   "-mmcu=atmega2560",
-   "-DF_CPU=16000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_AVR_MEGA2560",
-   "-DARDUINO_ARCH_AVR",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\PluggableUSB.cpp",
-   "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\PluggableUSB.cpp.o"
-  ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\PluggableUSB.cpp"
- },
- {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
-  "arguments": [
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
-   "-c",
-   "-g",
-   "-Os",
-   "-w",
-   "-std=gnu++11",
-   "-fpermissive",
-   "-fno-exceptions",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-fno-threadsafe-statics",
-   "-Wno-error=narrowing",
-   "-MMD",
-   "-flto",
-   "-mmcu=atmega2560",
-   "-DF_CPU=16000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_AVR_MEGA2560",
-   "-DARDUINO_ARCH_AVR",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Tone.cpp",
-   "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\Tone.cpp.o"
-  ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Tone.cpp"
- },
- {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -465,12 +630,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\IPAddress.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\IPAddress.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\IPAddress.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\IPAddress.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -493,14 +658,14 @@
    "-DARDUINO_ARCH_AVR",
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\USBCore.cpp",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial2.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\USBCore.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\HardwareSerial2.cpp.o"
   ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\USBCore.cpp"
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\HardwareSerial2.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -523,14 +688,44 @@
    "-DARDUINO_ARCH_AVR",
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Stream.cpp",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\PluggableUSB.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\Stream.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\PluggableUSB.cpp.o"
   ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Stream.cpp"
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\PluggableUSB.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Print.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\Print.cpp.o"
+  ],
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Print.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -555,12 +750,42 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\WMath.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\WMath.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\WMath.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\WMath.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\USBCore.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\USBCore.cpp.o"
+  ],
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\USBCore.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
    "-c",
@@ -582,12 +807,72 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\WInterrupts.c",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\WInterrupts.c.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\WInterrupts.c.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\WInterrupts.c"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Tone.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\Tone.cpp.o"
+  ],
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Tone.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu++11",
+   "-fpermissive",
+   "-fno-exceptions",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-fno-threadsafe-statics",
+   "-Wno-error=narrowing",
+   "-MMD",
+   "-flto",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Stream.cpp",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\Stream.cpp.o"
+  ],
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\Stream.cpp"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -612,12 +897,39 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\WString.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\WString.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\WString.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\WString.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu11",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-MMD",
+   "-flto",
+   "-fno-fat-lto-objects",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\hooks.c",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\hooks.c.o"
+  ],
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\hooks.c"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -642,39 +954,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\abi.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\abi.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\abi.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\abi.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
-  "arguments": [
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
-   "-c",
-   "-g",
-   "-Os",
-   "-w",
-   "-std=gnu11",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-MMD",
-   "-flto",
-   "-fno-fat-lto-objects",
-   "-mmcu=atmega2560",
-   "-DF_CPU=16000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_AVR_MEGA2560",
-   "-DARDUINO_ARCH_AVR",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\hooks.c",
-   "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\hooks.c.o"
-  ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\hooks.c"
- },
- {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -699,12 +984,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\main.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\main.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\main.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\main.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-g++",
    "-c",
@@ -729,12 +1014,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\new.cpp",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\new.cpp.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\new.cpp.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\new.cpp"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
    "-c",
@@ -756,62 +1041,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring.c",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\wiring.c.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\wiring.c.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring.c"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
-  "arguments": [
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
-   "-c",
-   "-g",
-   "-Os",
-   "-w",
-   "-std=gnu11",
-   "-ffunction-sections",
-   "-fdata-sections",
-   "-MMD",
-   "-flto",
-   "-fno-fat-lto-objects",
-   "-mmcu=atmega2560",
-   "-DF_CPU=16000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_AVR_MEGA2560",
-   "-DARDUINO_ARCH_AVR",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_analog.c",
-   "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\wiring_analog.c.o"
-  ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_analog.c"
- },
- {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
-  "arguments": [
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
-   "-c",
-   "-g",
-   "-x",
-   "assembler-with-cpp",
-   "-flto",
-   "-MMD",
-   "-mmcu=atmega2560",
-   "-DF_CPU=16000000L",
-   "-DARDUINO=10607",
-   "-DARDUINO_AVR_MEGA2560",
-   "-DARDUINO_ARCH_AVR",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
-   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
-   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_pulse.S",
-   "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\wiring_pulse.S.o"
-  ],
-  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_pulse.S"
- },
- {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
    "-c",
@@ -833,12 +1068,62 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_digital.c",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\wiring_digital.c.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\wiring_digital.c.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_digital.c"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
+   "-c",
+   "-g",
+   "-Os",
+   "-w",
+   "-std=gnu11",
+   "-ffunction-sections",
+   "-fdata-sections",
+   "-MMD",
+   "-flto",
+   "-fno-fat-lto-objects",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_analog.c",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\wiring_analog.c.o"
+  ],
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_analog.c"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
+  "arguments": [
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
+   "-c",
+   "-g",
+   "-x",
+   "assembler-with-cpp",
+   "-flto",
+   "-MMD",
+   "-mmcu=atmega2560",
+   "-DF_CPU=16000000L",
+   "-DARDUINO=10607",
+   "-DARDUINO_AVR_MEGA2560",
+   "-DARDUINO_ARCH_AVR",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
+   "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
+   "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_pulse.S",
+   "-o",
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\wiring_pulse.S.o"
+  ],
+  "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_pulse.S"
+ },
+ {
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
    "-c",
@@ -860,12 +1145,12 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_pulse.c",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\wiring_pulse.c.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\wiring_pulse.c.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_pulse.c"
  },
  {
-  "directory": "g:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2",
+  "directory": "g:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico",
   "arguments": [
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
    "-c",
@@ -887,7 +1172,7 @@
    "-IC:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega",
    "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_shift.c",
    "-o",
-   "G:\\Archivos\\Escritorio\\Ingenieria\\Segundo Semestre 2023\\Arqui 2\\Practica2\\build\\core\\wiring_shift.c.o"
+   "G:\\Archivos\\Escritorio\\Proyecto2ACE2\\Proyecto 2\\Fisico\\build\\core\\wiring_shift.c.o"
   ],
   "file": "C:\\Users\\GustavoXD\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino\\wiring_shift.c"
  }
